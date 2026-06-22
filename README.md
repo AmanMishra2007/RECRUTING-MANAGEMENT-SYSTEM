@@ -181,3 +181,30 @@ Salesforce Flow Builder
 Validation Rules
 Triggers
 Reports & Dashboards
+
+
+Skill Upgradation for Rural youth Empowerment Trust
+Student Details
+Name: Aman Kumar Mishra
+
+Email ID: amanmishrag1salesforce@gmail.com
+
+College Name: Dr. B. C. Roy Engineering College, Durgapur
+
+Branch/Specialization : Masters in Computer Applications
+
+Course Details
+Course Opted: Salesforce
+
+Instructor Name: Sriram Yarrabothula
+
+Duration: 6 Months
+
+Trainer Details
+Trainer Name: Sriram Yarrabothula
+
+Trainer Email ID: yarrabothulasriram@gmail.com
+
+Trainer Designation: Salesforce developer
+
+
