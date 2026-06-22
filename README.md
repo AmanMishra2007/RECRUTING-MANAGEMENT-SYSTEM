@@ -183,8 +183,7 @@ Triggers
 Reports & Dashboards
 
 
-Skill Upgradation for Rural youth Empowerment Trust
-Student Details
+
 
 Name: Aman Kumar Mishra
 
