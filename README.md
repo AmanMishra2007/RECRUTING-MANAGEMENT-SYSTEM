@@ -1,3 +1,36 @@
+<img width="1563" height="1563" alt="image" src="https://github.com/user-attachments/assets/3563e8d6-f8da-45b1-a749-d66abf1080cf" />
+SURE ProEd (formerly SURE Trust)
+Skill Upgradation for Rural youth Empowerment Trust
+# Student Details
+Name: AMAN KUMAR MISHRA
+
+Email ID: amanmishrag1salesforce@gmail.com
+
+College Name: Dr. B. C. Roy Engineering, College
+
+Branch/Specialization : Computer Application (MCA)
+
+College ID: 120710242002
+# Course Details
+Course Opted: Salesforce
+
+Instructor Name: Sriram yarrabothula
+
+Duration: 6 Months
+# Trainer Details
+Trainer Name: Sriram Yarrabothula
+
+Trainer Email ID: yarrabothulasriram@gmail.com
+
+Trainer Designation: Salesforce Developer — RAYON TECHNOLOGY SOLUTIONS PRIVATE LIMITED
+# Overall Learning
+My professional summary based on the extensive Salesforce Administration and Development syllabus you provided, tailored to reflect a strong architectural and developer skill set.
+
+During this course, I developed a comprehensive understanding of the Salesforce ecosystem, spanning both declarative Administration and programmatic Development. I gained hands-on experience in cloud architecture, complex data modeling, organizational security controls, and advanced process automation using Flows and Approval Processes. On the development side, I strengthened my technical capabilities by writing robust Apex code—mastering triggers, asynchronous processes, and comprehensive test classes. Additionally, I built responsive, modern user interfaces utilizing Lightning Web Components (LWC) and deepened my systems architecture expertise by integrating Salesforce with external platforms via REST/SOAP APIs, equipping me to design and deliver highly scalable, real-world CRM solutions.
+# Projects Completed
+This project involved designing and developing a Recruitment Management System (RMS) using Salesforce. It was built using core platform concepts, including structured data modeling, complex object relationships, and advanced process automation. The project focused on creating custom objects such as Job Positions, Applications, Interviews, and Offers to manage the end-to-end hiring lifecycle. I used Screen Flows to create intuitive candidate application forms and Record-Triggered Flows to automate status updates and job closures once openings were filled. Additionally, I implemented Apex Triggers and Scheduled Apex to prevent duplicate applications and send automated interview reminders. The system was designed with a strict security model, using Private OWD and a Role Hierarchy to ensure sensitive hiring data is accessible only to authorized HR staff and recruiters. This project helped me translate complex recruitment requirements into a scalable Salesforce solution while strengthening my skills in both administrative configuration and custom development.
+
+
 # RECRUTING-MANAGEMENT-SYSTEM
 End-to-end Salesforce Recruitment Management System for managing jobs, candidates, interviews, recruiters, and offers with automated workflows, validation rules, Apex triggers, and real-time dashboards.
 The Recruiting Management System is a Salesforce-based recruitment automation platform designed to streamline the entire hiring lifecycle, from job creation to candidate onboarding. The system enables HR managers and recruiters to efficiently manage job openings, applications, interviews, and offer letters while automating repetitive recruitment processes.
@@ -183,7 +216,7 @@ Triggers
 Reports & Dashboards
 
 
-
+#
 
 Name: Aman Kumar Mishra
 
